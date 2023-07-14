@@ -37,7 +37,7 @@ h1{
 	text-align:center;
 }
 	h2{
-				 color:white;
+				 color:##9BE8D8;
  
 		margin:0;
 		margin-block :0;
